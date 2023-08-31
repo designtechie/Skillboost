@@ -4,7 +4,7 @@
 <h1 align="center">Skill Boost</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://skillboost-xi.vercel.app/" target="_blank">Clinion</a>.
+   Solution for a challenge from  <a href="https://skillboost-xi.vercel.app/" target="_blank">Skill Boost</a>.
 </div>
 
 <div align="center">
