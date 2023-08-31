@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Clinion website</h1>
+<h1 align="center">Skill Boost</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://" target="_blank">Clinion</a>.
